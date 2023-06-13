@@ -3,9 +3,10 @@
 <h3 align="center">
   Sistema básico de aplicativo de relacionamentos (similar ao Tinder).
 </h3>
+![image]()
 
 ## 📷 Screenshot
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/245332180-46add616-4028-42bf-8ff6-462970a9801e.png" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/245333166-af64fcd9-95e9-4f4c-809c-ebd7cf438efe.png" />
 
 ## 💻 Projeto
 
