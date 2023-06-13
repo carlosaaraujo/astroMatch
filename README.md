@@ -4,6 +4,9 @@
   Sistema básico de aplicativo de relacionamentos (similar ao Tinder).
 </h3>
 
+## 📷 Screenshot
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/245332180-46add616-4028-42bf-8ff6-462970a9801e.png" />
+
 ## 💻 Projeto
 
 Reforçar a utilização de componentes funcionais e de Hooks, através da utilização da API chamada AstroMatch. Ela possibilitará que você pesquisem, alterem e reiniciem um sistema básico de aplicativo de relacionamentos (similar ao Tinder).
