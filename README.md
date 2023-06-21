@@ -1,9 +1,9 @@
 <h1 align="center">💕 Projeto AstroMatch</h1>
 
 <h3 align="center">
-  Sistema básico de aplicativo de relacionamentos (similar ao Tinder).
+O AstroMatch é um projeto de relacionamentos que permite aos usuários dar like, dislike, match e 
+remover o match.
 </h3>
-![image]()
 
 ## 📷 Screenshot
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/245333166-af64fcd9-95e9-4f4c-809c-ebd7cf438efe.png" />
