@@ -1,7 +1,7 @@
 <h1 align="center">💕 Projeto AstroMatch</h1>
 
 <h3 align="center">
-O AstroMatch é um projeto de relacionamentos que permite aos usuários dar like, dislike, match e 
+  O AstroMatch é um projeto de relacionamentos que permite aos usuários dar like, dislike, match e 
 remover o match.
 </h3>
 
